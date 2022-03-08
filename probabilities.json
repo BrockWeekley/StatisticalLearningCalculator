@@ -1,0 +1,46 @@
+{
+  "groups": [
+    {
+      "name": "H1",
+      "probability": 0.1,
+      "categories": [0.8, 0.15, 0.05],
+      "posterior_probability": 0.1,
+      "x": [],
+      "y": []
+    },
+    {
+      "name": "H2",
+      "probability": 0.3,
+      "categories": [0.6, 0.3, 0.1],
+      "posterior_probability": 0.3,
+      "x": [],
+      "y": []
+    },
+        {
+      "name": "H3",
+      "probability": 0.2,
+      "categories": [0.4, 0.5, 0.1],
+      "posterior_probability": 0.2,
+      "x": [],
+      "y": []
+    },
+        {
+      "name": "H4",
+      "probability": 0.15,
+      "categories": [0.2, 0.4, 0.4],
+      "posterior_probability": 0.15,
+      "x": [],
+      "y": []
+    },
+        {
+      "name": "H5",
+      "probability": 0.25,
+      "categories": [0.1, 0.2, 0.7],
+      "posterior_probability": 0.25,
+      "x": [],
+      "y": []
+    }
+  ],
+  "observations": [0, 1, 1, 2, 0],
+  "predictions": [0, 0, 0, 0, 0, 0]
+}
